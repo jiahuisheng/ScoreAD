@@ -74,3 +74,5 @@ You can run  **main.py** or **SAD.ipynb**
 - The `main.py` script will output the detection results (.mat) for each dataset. The results are saved in the `results` folder.
 - You can also run the `SAD.ipynb` notebook to obtain additional outputs besides the main detection results (.mat) , such as detection maps, learning curves, and generated spectra.
 
+## Contact
+any questiona, please contact me at jiahuisheng@zju.edu.cn
