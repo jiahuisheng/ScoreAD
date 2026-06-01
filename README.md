@@ -75,4 +75,4 @@ You can run  **main.py** or **SAD.ipynb**
 - You can also run the `SAD.ipynb` notebook to obtain additional outputs besides the main detection results (.mat) , such as detection maps, learning curves, and generated spectra.
 
 ## Contact
-any questiona, please contact me at jiahuisheng@zju.edu.cn
+For any questions, please contact me at jiahuisheng@zju.edu.cn
